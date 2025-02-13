@@ -1,0 +1,13 @@
+name = "Modpack Pre Residencia"
+author = "MestreProno"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8ca755e24ff1f8bf24b5af6544bf30e61962c22ad343ebeb7141b081000a64de"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

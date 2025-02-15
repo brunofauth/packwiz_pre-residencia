@@ -26,7 +26,7 @@ Esse diretório onde tu tá pode, agora, ser usado diretamente pelo launcher
 
     portablemc \
         --main-dir ~/.local/share/portablemc-main/ \
-        --work-dir <DIRETORIO BAIXADO PELO PACKWIZ-INSTALLER> \
+        --work-dir <DIRETORIO POPULADO PELO PACKWIZ-INSTALLER> \
         start \
             --login <EMAIL MICROSOFT> \
             --jvm-args="-Djava.io.tmpdir=$HOME/.cache/portablemc" \

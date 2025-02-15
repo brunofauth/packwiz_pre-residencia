@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "886c4977d96b15c009724e7361c2504936fcec1f7f3572b2a9f3675a023fd4f4"
+hash = "1ab54d101fa6e2c96dd168aa10f7e3fbcd24131a4d129f1edd8efe5fa9094024"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -125,16 +125,8 @@ file = "config/firespreadtweaks.json5"
 hash = "14ae60dcd9a6e0834f149fa6283ee5333fddaea8e541ed3148732420a424472f"
 
 [[files]]
-file = "config/handoveryouritems.json5"
-hash = "793dd29112341a3751e7d42bc8c2329fdd4971e271e0d58d4a3952250849bd68"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "722b612b9b0688a7d5881c5c12182df882bb089f07caf098eb6654d5e6a95b15"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "3d6b4a205b7fc68589a0f8459e7c72f627452aefdd7fc5e5e796f6b3bbab76a1"
 
 [[files]]
 file = "config/jei/blacklist.json"
@@ -173,44 +165,12 @@ file = "config/jei/world/local/mundo-teste-distant-horizons/bookmarks.json"
 hash = "36fe8971c1f9dc73d3443d5a5048c125b9ee125d32953505943386fd734ebaad"
 
 [[files]]
-file = "config/lambdynlights.toml"
-hash = "a2e5244b53a0ec7e1e1f4929a93640fc25dfc1a060e23ae2864d9e3cb5492466"
-
-[[files]]
-file = "config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
 file = "config/lighty/base.config"
 hash = "3b5909f2b85dd9593a91d3cfb5312a22b50766c8fb01e5930f860a5b9a92cfbb"
 
 [[files]]
-file = "config/litematica.json"
-hash = "94373e5c50352dc7a7dbd7cd8e911b8ff31f1a81409901ad83c4ee5578f8ff5b"
-
-[[files]]
-file = "config/litematica/litematica_mundo_distant_horizons.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_mundo_distant_horizons_dim_minecraft_overworld.json"
-hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
-
-[[files]]
-file = "config/litematica/litematica_mundo_testes.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_mundo_testes_dim_minecraft_overworld.json"
-hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
-
-[[files]]
-file = "config/malilib.json"
-hash = "c5ac632bb58f64b65f509c9f57b6555e6af5b2cc35c80d46ad5e8e2060358019"
 
 [[files]]
 file = "config/modelfix-client.json"
@@ -235,22 +195,6 @@ hash = "0ac54a90d81c29459c3bf27c390b5d1d868d9dc1a8af8761b220fb3b1cf7570e"
 [[files]]
 file = "config/ping-wheel.server.json"
 hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
-
-[[files]]
-file = "config/polymer/client.json"
-hash = "a48944832b3d6ddfada784330a3006afa7c5e9beb995489d383d2b25854cbb6f"
-
-[[files]]
-file = "config/polymer/common.json"
-hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
-
-[[files]]
-file = "config/polymer/resource-pack.json"
-hash = "9817b7d69e4f5432ce513e9f86c6d142ed132c5dd3ee953fc2ee6e557e3d422a"
-
-[[files]]
-file = "config/polymer/server.json"
-hash = "233d56a8a7228e1d85fec9080a0821e92c910807a3a80c4c7392f29f80850558"
 
 [[files]]
 file = "config/reacharound.json"
@@ -285,34 +229,6 @@ file = "config/sodium-options.json"
 hash = "545dd7bd8332b89fb316387bb891ca061edba2935e55e41ca2b219dbaf50e7ce"
 
 [[files]]
-file = "config/tooltiptweaks.json5"
-hash = "c396a32adfe12ca3e6310eb3a2dadb2157c300b5e56df88409a96719099a9bb2"
-
-[[files]]
-file = "config/universal-graves/config.json"
-hash = "53f6726c5a8de12cc5114f80d3c4812a0a9e49aeff759f26e9329b10255b43d7"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_player.json"
-hash = "f1f86bd740c9bde120cca8769e900005cf46f67cfb076b65b50c339f47deb69e"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_zombie.json"
-hash = "dc1ee62c77ef7831f52c1c9a44c5dff3e5ccaa4094d43438e9fdbe1f41a06a17"
-
-[[files]]
-file = "config/universal-graves/example_models/default.json"
-hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
-
-[[files]]
-file = "config/universal-graves/example_models/player_head.json"
-hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
-
-[[files]]
-file = "config/universal-graves/example_models/soul.json"
-hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
-
-[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
@@ -343,94 +259,6 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 [[files]]
 file = "config/yigd.json"
 hash = "445438e0576218e0dc6a15b6c58686b8da38779e0b3e6215cfee873606fe4bd0"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
-file = "config/yosbr/config/PaginatedAdvancements.json5"
-hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
-
-[[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "8c79b471bad59fcb9d73c4689dd6687be63facefd73a17f11f1bf4acf00c158d"
-
-[[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
-
-[[files]]
-file = "config/yosbr/config/entity_texture_features.json"
-hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
-
-[[files]]
-file = "config/yosbr/config/fabrishot.properties"
-hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
-
-[[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
-
-[[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
-
-[[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "e9c780a3548faea77d7230f83a97497cf30ae5148d1855c632310f6fb69a5cec"
-
-[[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
-
-[[files]]
-file = "config/yosbr/config/midnightlib.json"
-hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "cab638ef75572d2c4bcc9dfd583283e7bbe927fd6c3834930bed52e2dbcac063"
-
-[[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
-
-[[files]]
-file = "config/yosbr/config/puzzle.json"
-hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
-
-[[files]]
-file = "config/yosbr/config/rrls.toml"
-hash = "6b222180584c27fde0fc5c7f94fd3c926f7251f624e676e8b90c0216fb886910"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "74095f4f35241c22e42d51ea9c38811126e901a1c89c697b84d4e3c1eacd8ec9"
 
 [[files]]
 file = "config/zoomify.json"
@@ -648,11 +476,6 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "b1381f0dd9a4cc74d39cde3f62460f56dfde457d1c9a7d7e10e5f81a29a2a87a"
-metafile = true
-
-[[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]

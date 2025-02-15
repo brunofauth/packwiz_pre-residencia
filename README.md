@@ -14,9 +14,10 @@ forma de bootstrapper, que é um wrapper que baixa e atualiza o próprio
 
     yay -S packwiz-installer
 
-Depois tu vai até o diretório que tu quer popular com os conteúdos do modpack e
-executa o `packwiz-installer` dando a URL da versão *pages* deste mesmo
-repositório, assim:
+Depois tu vai até o diretório que tu quer popular com os conteúdos do modpack
+(se tu usa o launcher original da mojang, esse diretório tem que ser o teu
+`.minecraft`) e executa o `packwiz-installer` dando a URL da versão *pages*
+deste mesmo repositório, assim:
 
     packwiz-installer "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 

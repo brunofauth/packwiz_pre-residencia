@@ -63,6 +63,7 @@ Bibliotecas (coremods) não estão incluidos aqui.
 ### Otimização
 - Clumps
 - Concurrent Chunk Management Engine (Fabric)
+- Cull Leaves
 - Debugify
 - Dynamic FPS
 - Enhanced Block Entities
@@ -80,6 +81,8 @@ Bibliotecas (coremods) não estão incluidos aqui.
 
 ### Beleza
 - AmbientSounds
+- CIT Resewn
+- Continuity
 - Distant Horizons
 - FabricSkyboxes
 - FabricSkyBoxes Interop
@@ -106,6 +109,7 @@ Bibliotecas (coremods) não estão incluidos aqui.
 ### Outras Ferramentas
 - Carpet
 - Chunky
+- e4mc
 - Fabrishot
 - FallingTree
 - Fire Spread Tweaks
@@ -118,7 +122,6 @@ Bibliotecas (coremods) não estão incluidos aqui.
 - Xaero's World Map
 - You're in Grave Danger
 - Zoomify
-- e4mc
 
 
 ## Resourcepacks
@@ -126,4 +129,5 @@ Bibliotecas (coremods) não estão incluidos aqui.
 - [Hyper Realistic Sky](https://modrinth.com/resourcepack/hyper-realistic-sky)
 - [Better Leaves](https://modrinth.com/resourcepack/better-leaves)
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
+- [Unique Enchanted Books](https://modrinth.com/resourcepack/unique-enchanted-books)
 

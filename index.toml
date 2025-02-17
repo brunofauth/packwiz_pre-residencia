@@ -314,6 +314,11 @@ hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "1e723e1f88ce7a34bce4c8af6d6bd904a81a854bbb3d5686ef109030be5ee14e"
 metafile = true
@@ -334,6 +339,11 @@ hash = "42f218e9224754a2d344f584433b43b67b7c0400aca3feba07cd344a1ca228ae"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "eb4c5f7faa6349da2b520094d2a2635e03e8ff305076e7ac76588d1e2183849b"
 metafile = true
@@ -346,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "edbdb08293a1a41bc4d76f73a8531d0bf4495a9735a0492e7c7bbd7e858cac1e"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "eb32b8f6578bc65868596a52d9e48f6f638c9e88929748968acb0fd04375720f"
 metafile = true
 
 [[files]]
@@ -569,4 +584,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "ad6e0d24cb0fd6dc920a404362f7c005cbcb760caf3250a76e73b9e2050fd32e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-enchanted-books.pw.toml"
+hash = "4f89cd43a057cb838d6ecbf5e6cfdedd4ebff2a471328e9041a618c5e877d49d"
 metafile = true

@@ -126,8 +126,10 @@ Bibliotecas (coremods) não estão incluidos aqui.
 
 ## Resourcepacks
 
-- [Hyper Realistic Sky](https://modrinth.com/resourcepack/hyper-realistic-sky)
 - [Better Leaves](https://modrinth.com/resourcepack/better-leaves)
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
+- [Hyper Realistic Sky](https://modrinth.com/resourcepack/hyper-realistic-sky)
+- [Low On Fire](https://modrinth.com/resourcepack/low-on-fire)
 - [Unique Enchanted Books](https://modrinth.com/resourcepack/unique-enchanted-books)
 

@@ -577,6 +577,11 @@ hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
 metafile = true
@@ -584,6 +589,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "ad6e0d24cb0fd6dc920a404362f7c005cbcb760caf3250a76e73b9e2050fd32e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
 
 [[files]]

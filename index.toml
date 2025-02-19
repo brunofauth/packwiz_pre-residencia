@@ -304,6 +304,11 @@ hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "54f2b9609b14158941951ca10de56d5efa478b88a3a25ad5390bebbefcd08ff9"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true

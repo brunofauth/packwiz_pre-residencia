@@ -584,14 +584,6 @@ hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Fast Better Grass.zip"
-hash = "4bf4b65b55a8af44fb1bb20b3fe165c81962f273a387878ed7c7590e87a9e77f"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "3d356a78cae09361890cfbae19632343ec5caaf3e798782270a0d48dac45cff0"
-
-[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
 metafile = true

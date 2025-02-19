@@ -314,6 +314,11 @@ hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
@@ -444,8 +449,18 @@ hash = "caa3a76f43559cbf5c8387b51b89f03834c2c72e4af8669be7a9ef947077e90a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "3df4c876a1d71c86817a276f53cef664e64e5be440157a8c5c451601e7563f3b"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/kiss.pw.toml"
+hash = "de1944f9e22b5ebc1df0e2ceb10a81ec8148c771d18382141fc4e15e0dd00a2f"
 metafile = true
 
 [[files]]

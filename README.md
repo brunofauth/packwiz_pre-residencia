@@ -94,11 +94,14 @@ Bibliotecas (coremods) não estão incluidos aqui.
 - Better Mount HUD
 - Better Third Person
 - BetterF3
+- Carry On
 - Client Tweaks
 - Controlling
 - Crafting Tweaks
 - FastQuit
+- Inventory Essentials
 - Just Enough Items
+- KISS (Keep Inventories Sorted, Simple)
 - Mod Menu
 - More Chat History
 - Paginated Advancements & Custom Frames
@@ -108,6 +111,7 @@ Bibliotecas (coremods) não estão incluidos aqui.
 
 ### Outras Ferramentas
 - Carpet
+- Carpet Extra
 - Chunky
 - e4mc
 - Fabrishot

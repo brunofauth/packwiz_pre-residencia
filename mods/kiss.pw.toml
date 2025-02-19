@@ -1,0 +1,13 @@
+name = "KISS – Keep Inventories Sorted, Simple"
+filename = "KeepInventorySortedSimple-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FbHSPTyF/versions/M6GLQXYq/KeepInventorySortedSimple-0.3.1.jar"
+hash-format = "sha512"
+hash = "fdeb0ed6435cd0d956b332cd4d31435b00ef1d74547dbccf11c1c5efe440f143fdf293670da53cf47b0e363db071ec34a30a1695c42ae6c36a1de0e58ace40c8"
+
+[update]
+[update.modrinth]
+mod-id = "FbHSPTyF"
+version = "M6GLQXYq"

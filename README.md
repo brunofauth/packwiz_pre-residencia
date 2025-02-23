@@ -14,25 +14,26 @@ instalado com o [packwiz-installer][intro-2].
 
 # Instalação
 
-Tu tem que ter o `packwiz-installer` para baixar esse modpack. Pode baixar ele
-[aqui][install-1], na forma de bootstrapper, que é um wrapper que baixa e
-atualiza o próprio `packwiz-installer`, ou pelo AUR:
-
-    yay -S packwiz-installer
+Tu tem que ter o `packwiz-installer` para baixar esse modpack. Pode [baixar ele
+aqui][install-1], na forma de um JAR bootstrapper, que é um wrapper que baixa e
+atualiza o próprio `packwiz-installer`, ou, no Arch Linux, [pelo AUR](install-2).
 
 Depois tu vai até o diretório que tu quer popular com os conteúdos do modpack
 (se tu usa o launcher original da mojang, esse diretório tem que ser o teu
 `.minecraft`) e executa o `packwiz-installer` dando a URL da versão *pages*
 deste mesmo repositório, assim:
 
-    # Install only server-sided mods
-    packwiz-installer --side=server "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
+    # Esse comando instala só os mods server-sided
+    java -jar packwiz-installer-bootstrapper.jar \
+        --side=server "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
-    # Install only client-sided mods
-    packwiz-installer --side=client "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
+    # Esse comando instala só os mods client-sided
+    java -jar packwiz-installer-bootstrapper.jar \
+        --side=client "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
-    # Install both client- and server-sided mods
-    packwiz-installer --side=both   "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
+    # Esse comando instala mods ambos client- e server-sided
+    java -jar packwiz-installer-bootstrapper.jar \
+        --side=both   "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
     # Outras opções de CLI do packwiz-installer (cf. código-fonte):
     # --side              <"client"|"server"|"both">  (default="client")
@@ -42,7 +43,8 @@ deste mesmo repositório, assim:
     # --timeout           <seconds>                   (default=10)
 
 Esse diretório onde tu tá pode, agora, ser usado diretamente pelo launcher
-[*portablemc*][install-2].
+[*portablemc*][install-3] (ou, se tu instalou no `.minecraft`, pode usar pelo
+launcher normal da Mojang também).
 
     portablemc \
         --main-dir ~/.local/share/portablemc-main/ \
@@ -54,7 +56,8 @@ Esse diretório onde tu tá pode, agora, ser usado diretamente pelo launcher
 
 
 [install-1]: https://github.com/packwiz/packwiz-installer-bootstrap/releases
-[install-2]: https://github.com/mindstorm38/portablemc
+[install-2]: https://aur.archlinux.org/packages/packwiz-installer
+[install-3]: https://github.com/mindstorm38/portablemc
 
 
 # Avisos

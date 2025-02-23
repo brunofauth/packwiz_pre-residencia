@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "e8530d58ef9e5991e366a56cc4f478a1e35b136255805a965c7021eff5df69d0"
+
+[[files]]
+file = "README.md"
+hash = "8d3e8b2c6703f6f63df2200ceac45753eac971421cf981a973205e5757fd3b25"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "1ab54d101fa6e2c96dd168aa10f7e3fbcd24131a4d129f1edd8efe5fa9094024"
 
@@ -65,6 +73,10 @@ file = "config/chunky/tasks/minecraft/the_nether.properties"
 hash = "19707b6be65c865c2e97d54d480a76513b64066afe74441ef371f77d0def5afe"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "d073779d3c9ae385981efa7d1ae7c58ae8f04243ce4d87983eb41f3b6de98f9b"
+
+[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "916fdc77d8e288a57d479e9f021e5f40558540dce778ffda225be5269dc63204"
 
@@ -75,6 +87,10 @@ hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 [[files]]
 file = "config/craftingtweaks-common.toml"
 hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "597892644119cc324a2294077e2c92dcf872e06e8280f0f88bf55a42a36208bf"
 
 [[files]]
 file = "config/debugify-descriptions.json"
@@ -602,6 +618,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "5be26d487f25e957c53bb80d64e1b2e4cc77df45b16868e3a1f288e6ed90b8b5"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"

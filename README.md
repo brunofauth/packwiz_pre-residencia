@@ -23,24 +23,26 @@ Depois tu vai até o diretório que tu quer popular com os conteúdos do modpack
 `.minecraft`) e executa o `packwiz-installer` dando a URL da versão *pages*
 deste mesmo repositório, assim:
 
-    # Esse comando instala só os mods server-sided
-    java -jar packwiz-installer-bootstrapper.jar \
-        --side=server "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
+```bash
+# Esse comando instala só os mods server-sided
+java -jar packwiz-installer-bootstrapper.jar \
+    --side=server "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
-    # Esse comando instala só os mods client-sided
-    java -jar packwiz-installer-bootstrapper.jar \
-        --side=client "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
+# Esse comando instala só os mods client-sided
+java -jar packwiz-installer-bootstrapper.jar \
+    --side=client "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
-    # Esse comando instala mods ambos client- e server-sided
-    java -jar packwiz-installer-bootstrapper.jar \
-        --side=both   "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
+# Esse comando instala mods ambos client- e server-sided
+java -jar packwiz-installer-bootstrapper.jar \
+    --side=both   "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
-    # Outras opções de CLI do packwiz-installer (cf. código-fonte):
-    # --side              <"client"|"server"|"both">  (default="client")
-    # --pack-folder       <file path>                 (default=cwd)
-    # --multimc-folder    <file path>
-    # --manifest-file     <file path>                 (default="packwiz.json")
-    # --timeout           <seconds>                   (default=10)
+# Outras opções de CLI do packwiz-installer (cf. código-fonte):
+# --side              <"client"|"server"|"both">  (default="client")
+# --pack-folder       <file path>                 (default=cwd)
+# --multimc-folder    <file path>
+# --manifest-file     <file path>                 (default="packwiz.json")
+# --timeout           <seconds>                   (default=10)
+```
 
 Esse diretório onde tu tá pode, agora, ser usado diretamente pelo launcher
 [*portablemc*][install-3] (ou, se tu instalou no `.minecraft`, pode usar pelo

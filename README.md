@@ -48,13 +48,15 @@ Esse diretório onde tu tá pode, agora, ser usado diretamente pelo launcher
 [*portablemc*][install-3] (ou, se tu instalou no `.minecraft`, pode usar pelo
 launcher normal da Mojang também).
 
-    portablemc \
-        --main-dir ~/.local/share/portablemc-main/ \
-        --work-dir <DIRETORIO POPULADO PELO PACKWIZ-INSTALLER> \
-        start \
-            --login <EMAIL MICROSOFT> \
-            --jvm-args="-Djava.io.tmpdir=$HOME/.cache/portablemc" \
-            fabric:1.21.1
+```bash
+portablemc \
+    --main-dir "${XDG_DATA_HOME:-$HOME/.local/share}/portablemc-main/" \
+    --work-dir <DIRETORIO/POPULADO/PELO/PACKWIZ-INSTALLER> \
+    start \
+        --login <EMAIL-MICROSOFT> \
+        --jvm-args="-Djava.io.tmpdir='${XDG_CACHE_HOME:-$HOME/.cache}/portablemc'" \
+        fabric:1.21.1
+```
 
 
 [install-1]: https://github.com/packwiz/packwiz-installer-bootstrap/releases

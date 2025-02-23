@@ -474,6 +474,16 @@ hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e0b00c3f81947befb1f7b7424b16461b2805cb344e66542b868fd62c645bca56"
+metafile = true
+
+[[files]]
 file = "mods/mobexplosiongriefinggamerule.pw.toml"
 hash = "8a4dd44991a4fdea28ac9d4c1cd229399e359dccb2896214d083eb0bc391aa71"
 metafile = true
@@ -546,6 +556,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "c65f148826c71c981958c8cb918bfee86583279ec86ca3ba94f5ae338108e130"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "1bf438bbb1ae206a0133eaa45a1ee4e733554759e73b0dd3f8e46a23d5fa12bf"
 metafile = true
 
 [[files]]

@@ -1,3 +1,7 @@
+<!--
+vim: nospell
+-->
+
 # Modpack Pré-residência
 
 Um Modpack que eu crieir para jogar Minecraft 1.21.1 logo antes de ingressar na
@@ -121,6 +125,7 @@ Bibliotecas (coremods) não estão incluidos aqui.
 - Paginated Advancements & Custom Frames
 - Remove Reloading Screen
 - Replanting Crops
+- Shulkerbox Tooltip
 
 
 ### Outras Ferramentas
@@ -132,6 +137,7 @@ Bibliotecas (coremods) não estão incluidos aqui.
 - FallingTree
 - Fire Spread Tweaks
 - Lighty
+- MiniHUD
 - Mob Explosion Griefing Gamerule
 - No Chat Reports
 - Ping Wheel

@@ -6,7 +6,7 @@ hash = "e8530d58ef9e5991e366a56cc4f478a1e35b136255805a965c7021eff5df69d0"
 
 [[files]]
 file = "README.md"
-hash = "7e830ee560a0d83feaa46e4de97d5bd4383291fc04277d19a8c951bf17a9c448"
+hash = "c36c017284d3aa7ff2ab1136ab828731a0284d8fd39378690e6b2d27bbd0aecb"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -283,6 +283,10 @@ hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 [[files]]
 file = "datapacks/yigd-grave-recipe.zip"
 hash = "59a6aa8fdf290498b4756391454d6040729c5591204e57ed610bf03cc4673850"
+
+[[files]]
+file = "modes.txt"
+hash = "45efb7dd9e6747535ce8fc50fe56e7939893069634f2bee66c8d3c25f2479a44"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -657,3 +661,7 @@ metafile = true
 file = "resourcepacks/unique-enchanted-books.pw.toml"
 hash = "4f89cd43a057cb838d6ecbf5e6cfdedd4ebff2a471328e9041a618c5e877d49d"
 metafile = true
+
+[[files]]
+file = "versiones.txt"
+hash = "4f0024377819723b9f90d84badfaf2fb40ae1eeb7b3c9290e6db81b70ccf5119"

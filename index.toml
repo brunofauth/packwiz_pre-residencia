@@ -285,10 +285,6 @@ file = "datapacks/yigd-grave-recipe.zip"
 hash = "59a6aa8fdf290498b4756391454d6040729c5591204e57ed610bf03cc4673850"
 
 [[files]]
-file = "modes.txt"
-hash = "45efb7dd9e6747535ce8fc50fe56e7939893069634f2bee66c8d3c25f2479a44"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3fab60aca0fee9153c49b40e1b06b1deebb23800dce7b8b8f471e23f43f3efe5"
 metafile = true
@@ -661,7 +657,3 @@ metafile = true
 file = "resourcepacks/unique-enchanted-books.pw.toml"
 hash = "4f89cd43a057cb838d6ecbf5e6cfdedd4ebff2a471328e9041a618c5e877d49d"
 metafile = true
-
-[[files]]
-file = "versiones.txt"
-hash = "4f0024377819723b9f90d84badfaf2fb40ae1eeb7b3c9290e6db81b70ccf5119"

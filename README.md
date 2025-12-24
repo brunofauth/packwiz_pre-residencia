@@ -25,15 +25,18 @@ deste mesmo repositório, assim:
 
 ```bash
 # Esse comando instala só os mods server-sided
-java -jar packwiz-installer-bootstrapper.jar \
+java -jar /usr/share/java/packwiz/packwiz-installer-bootstrap.jar \
+    --bootstrap-no-update --bootstrap-main-jar /usr/share/java/packwiz/packwiz-installer.jar \
     --side=server "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
 # Esse comando instala só os mods client-sided
-java -jar packwiz-installer-bootstrapper.jar \
+java -jar /usr/share/java/packwiz/packwiz-installer-bootstrap.jar \
+    --bootstrap-no-update --bootstrap-main-jar /usr/share/java/packwiz/packwiz-installer.jar \
     --side=client "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
 # Esse comando instala mods ambos client- e server-sided
-java -jar packwiz-installer-bootstrapper.jar \
+java -jar /usr/share/java/packwiz/packwiz-installer-bootstrap.jar \
+    --bootstrap-no-update --bootstrap-main-jar /usr/share/java/packwiz/packwiz-installer.jar \
     --side=both   "https://brunofauth.github.io/packwiz_pre-residencia/pack.toml"
 
 # Outras opções de CLI do packwiz-installer (cf. código-fonte):
